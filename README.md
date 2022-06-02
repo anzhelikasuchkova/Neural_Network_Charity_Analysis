@@ -22,8 +22,25 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 
 ## Deliverable 1: Preprocessing Data for a Neural Network Model
 
+<img width="523" alt="Screen Shot 2022-06-01 at 6 59 09 PM" src="https://user-images.githubusercontent.com/93845867/171525564-b4334203-9839-42d5-a92a-e56d1659f6c7.png">
+
+<img width="1087" alt="Screen Shot 2022-06-01 at 6 59 35 PM" src="https://user-images.githubusercontent.com/93845867/171525573-15918b6a-4751-4e57-9516-c7fbb41fc2b2.png">
+
+
 ## Deliverable 2: Compile, Train, and Evaluate the Model
 
 ## Deliverable 3: Optimize the Model
 
 ## Deliverable 4: A Written Report on the Neural Network Model (README.md)
+
+Analysis: 
+
+Overview of the loan prediction risk analysis:
+
+The purpose of this analysis:
+
+Results:
+
+Summary:
+
+There is a recommendation on using a different model to solve the classification problem, and justification (3 pt)
