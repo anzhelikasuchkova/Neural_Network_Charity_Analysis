@@ -29,6 +29,9 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 
 ## Deliverable 2: Compile, Train, and Evaluate the Model
 
+<img width="872" alt="Screen Shot 2022-06-05 at 10 53 22 PM" src="https://user-images.githubusercontent.com/93845867/172097164-f9184669-58cc-451e-97af-dc7cc1d38051.png">
+
+
 <img width="588" alt="Screen Shot 2022-06-01 at 7 01 26 PM" src="https://user-images.githubusercontent.com/93845867/171525659-7a2efb1a-16ea-4a65-a6e5-592ca6b43656.png">
 
 
