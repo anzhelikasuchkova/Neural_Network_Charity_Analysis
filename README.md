@@ -34,6 +34,12 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 
 ## Deliverable 3: Optimize the Model
 
+<img width="867" alt="Screen Shot 2022-06-05 at 10 49 42 PM" src="https://user-images.githubusercontent.com/93845867/172096878-5afb6970-6cf4-4fe4-9fc6-7280eddc4f2f.png">
+
+<img width="1045" alt="Screen Shot 2022-06-05 at 10 50 02 PM" src="https://user-images.githubusercontent.com/93845867/172096887-a78ce7e3-7702-4fdd-baa3-5a7d8c6dce0e.png">
+
+The highest accuracy I could achieve was 73.1%. 
+
 ## Deliverable 4: A Written Report on the Neural Network Model (README.md)
 
 Analysis: 
