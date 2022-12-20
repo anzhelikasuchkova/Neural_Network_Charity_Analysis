@@ -45,4 +45,4 @@ We are trying to develop a loan prediction risk analysis model, a binary classif
 
 <img width="1045" alt="Screen Shot 2022-06-05 at 10 50 02 PM" src="https://user-images.githubusercontent.com/93845867/172096887-a78ce7e3-7702-4fdd-baa3-5a7d8c6dce0e.png">
 
-After 3 attempts, the highest accuracy I could achieve was 73.1%. 
+After 3 attempts, the highest accuracy I could achieve was 73.1%.
